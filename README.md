@@ -1,10 +1,4 @@
 <div align="center">
-  <img height="150" src="[https://camo.githubusercontent.com/](https://www.google.com/url?sa=i&url=https%3A%2F%2Fpngtree.com%2Ffree-backgrounds-photos%2Ftechnology-theme&psig=AOvVaw39idQPLOSWvqURbi5z223Q&ust=1723044532365000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNCOqJvX4IcDFQAAAAAdAAAAABAI)"  />
-</div>
-
-###
-
-<div align="center">
   <a href="https://www.linkedin.com/in/balram-shukla-3189b6269/?originalSubdomain=in" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
