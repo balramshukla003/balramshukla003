@@ -26,7 +26,8 @@
 
 ###
 
-<p align="left">👋 Hi there! I'm Balram Shukla, a dedicated developer and technology enthusiast. I specialize in solving data structures and algorithms (DSA) problems and am actively working on developing system application and web application.<br><br> <h3>🔹 What I Do:</h3>Tackle complex DSA challenges and find elegant solutions.<br>Develop and enhance system software with a focus on performance and efficiency.<br>Create engaging and functional web applications using HTML, CSS, and JavaScript.<br><br> <h3>🔹 Current Projects:</h3>Developing a fully functional ATM machine interface using Java<br>Building a personal portfolio to showcase my projects.<br>Working on a project of developing a CRM.<br><br> <h3>🔹 Skills:</h3>Java<br>HTML/CSS<br>JavaScript<br>Problem Solving<br>Data Structures & Algorithms<br>System Software Development<br><br>Feel free to explore my repositories and connect with me! <br> <br></p>
+<p align="left">👋 Hi there! I'm Balram Shukla, a dedicated developer and technology enthusiast. I specialize in solving data structures and algorithms (DSA) problems and am actively working on developing system application and web application.<br><br> <h3>🔹 What I Do:</h3>Tackle complex DSA challenges and find elegant solutions.<br>Develop and enhance system software with a focus on performance and efficiency.<br>Create engaging and functional web applications using HTML, CSS, and JavaScript.<br><br> <h3>🔹 Current Projects:</h3>Developing a fully functional ATM machine interface using Java<br>Building a personal portfolio to showcase my projects.<br>Working on a project of developing a CRM.<br><br> <h3>🔹 Skills:</h3>Java<br>HTML/CSS<br>JavaScript<br>Problem Solving<br>Data Structures & Algorithms<br>System Software Development
+  <br>Node.js<br><br>Express.js<br><br>SQL/MySQL<br><br>PHP<br><br>React<br><br>Feel free to explore my repositories and connect with me! <br> <br></p>
 
 ###
 
