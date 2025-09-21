@@ -2,7 +2,7 @@
 
 <h2 align="left">👩‍💻  About Me</h2>
 
-<p align="left">👋 Hi there! I'm Balram Shukla, a dedicated developer and technology enthusiast. I specialize in solving data structures and algorithms (DSA) problems and am actively working on developing system application and web application.<br><br> </p>
+<p align="left">Hi there! I'm Balram Shukla, a dedicated developer and technology enthusiast. I specialize in solving data structures and algorithms (DSA) problems and am actively working on developing system application and web application.<br><br> </p>
 
 <h2 align="left">🛠 Language and tools</h2>
 
