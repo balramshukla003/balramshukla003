@@ -58,7 +58,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sql logo" />
-  <img src="https://commons.wikimedia.org/wiki/File:Visual_Studio_Icon_2019.svg" height="40" alt="sql logo" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Visual_Studio_Icon_2019.svg" height="40" alt="sql logo" />
   
   <br><br>
 </div>
