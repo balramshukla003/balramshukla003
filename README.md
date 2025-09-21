@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">👋 Hi there! I'm Balram Shukla, a dedicated developer and technology enthusiast. I specialize in solving data structures and algorithms (DSA) problems and am actively working on developing system application and web application.<br><br> <h3>🔹 What I Do:</h3>Tackle complex DSA challenges and find elegant solutions.<br>Develop and enhance system software with a focus on performance and efficiency.<br>Create engaging and functional web applications using HTML, CSS, and JavaScript.<br><br> <h3>🔹 Current Projects:</h3>Working on a CRM techonolgy<br>Building a personal portfolio to showcase my projects using React.<br>'Inno-Tech' A fully functional web quiz application.<br><br> <h3>🔹 Skills:</h3>React<br>Java<br>HTML / CSS<br>JavaScript<br>Node.js / PHP<br>Express.js<br>SQL / MySQL<br>Problem Solving<br>Data Structures & Algorithms<br>Web Development<br>Software Development<br><br>Feel free to explore my repositories and connect with me! <br> <br></p>
+<p align="left">👋 Hi there! I'm Balram Shukla, a dedicated developer and technology enthusiast. I specialize in solving data structures and algorithms (DSA) problems and am actively working on developing system application and web application.<br><br> </p>
 
 ###
 
@@ -61,15 +61,6 @@
   <br><br>
 </div>
 
-###
 
-<h2 align="left">🔥   My Stats :</h2>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=balramshukla003&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  /> <br>
-  <img src="https://streak-stats.demolab.com?user=balramshukla003&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
 
 ###
